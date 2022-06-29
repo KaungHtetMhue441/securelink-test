@@ -1,0 +1,14 @@
+.photo{
+    width: 30px;
+}
+.photo-lg{
+    width: 200px;
+    border-radius: 50%;
+}
+.my-border{
+    border:0px solid black;
+    border-right: 1px solid black;
+}
+a{
+    text-decoration: none;
+}
